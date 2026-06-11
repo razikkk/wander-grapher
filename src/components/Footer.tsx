@@ -37,7 +37,7 @@ const Footer = () => (
               <Mail className="w-4 h-4" /> hello@wander.ae
             </a>
             <span className="flex items-center gap-2">
-              <Phone className="w-4 h-4" /> +971 4 123 4567
+              <Phone className="w-4 h-4" /> +971558092534
             </span>
             <span className="flex items-center gap-2">
               <MapPin className="w-4 h-4" /> Dubai, UAE

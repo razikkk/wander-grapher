@@ -9,7 +9,7 @@ const faqs = [
   { q: "Do you offer videography services?", a: "Yes, we provide full videography packages including promotional films, event coverage, and branded content creation." },
   { q: "What is your booking process?", a: "Simply reach out via our contact form or email. We'll discuss your vision, create a tailored proposal, and schedule your session at a time that works for you." },
   { q: "Do you travel for shoots?", a: "Absolutely. While we're based in Dubai, we regularly work across the UAE and internationally for destination projects." },
-  { q: "How long until I receive my photos?", a: "Turnaround time is typically 5–10 business days for edited galleries. Rush delivery is available upon request." },
+  { q: "How long until I receive my photos?", a: "Edited galleries are delivered within 24–48 hours. Rush delivery is available upon request" },
 ];
 
 const About = () => (
@@ -21,18 +21,25 @@ const About = () => (
           <AnimatedSection>
             <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">Our Story</p>
             <h1 className="font-display italic text-5xl md:text-6xl mb-6 leading-tight">
-              Born from a
-              <br />
-              Love of Light
+            Built on a Passion for Visual Storytelling
+
+            
             </h1>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              Wander was founded in Dubai with a singular vision: to elevate photography into an art form 
-              that resonates. We believe every frame should carry weight — every shadow should tell a story.
+            Wandergrapher started in Dubai with a simple goal — to create cinematic photography and videography that feels real, emotional, and impactful.
+
+
             </p>
-            <p className="text-muted-foreground leading-relaxed">
-              Our team blends years of international experience with an intimate knowledge of Dubai's 
-              dynamic landscape, delivering visual narratives that are as bold as the city itself.
+            <p className="text-muted-foreground leading-relaxed mb-6">
+            We focus on capturing strong visuals that combine light, composition, and storytelling to produce content that stands out for brands, businesses, and individuals.
+
             </p>
+            <p className="text-muted-foreground leading-relaxed mb-8">
+             
+            Based in Dubai, we work across automotive, lifestyle, and commercial projects, creating visuals designed for modern digital platforms and social media.
+
+            </p>
+           
           </AnimatedSection>
           <AnimatedSection delay={0.2}>
             <div className="aspect-[3/4] overflow-hidden">

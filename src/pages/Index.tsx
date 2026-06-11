@@ -38,7 +38,7 @@ const Index = () => (
           <span className="text-muted-foreground">in Dubai</span>
         </h1>
         <p className="font-body text-sm md:text-base tracking-[0.2em] uppercase text-muted-foreground mb-10">
-          Luxury Photography & Videography
+        Photography & Videography for Brands and Individuals
         </p>
         <Link
           to="/portfolio"
@@ -71,9 +71,14 @@ const Index = () => (
               Visual Storytelling
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              Wander is a luxury photography studio based in the heart of Dubai. 
-              We craft cinematic visual narratives for brands, individuals, and events — 
-              blending artistry with precision to create images that transcend the ordinary.
+             
+Wandergrapher is a Dubai-based photography and videography brand focused on cinematic visual storytelling for brands, businesses, and individuals.
+
+We create high-quality photography and video content that combines creativity, emotion, and strong composition to build a powerful visual identity for social media and digital platforms.
+
+Our work includes automotive photography, brand content, lifestyle shoots, and commercial visuals — all crafted with attention to detail, lighting, and storytelling.
+
+Based in Dubai, we work with startups, personal brands, and businesses looking for modern, impactful photography and videography that stands out online
             </p>
             <Link
               to="/about"

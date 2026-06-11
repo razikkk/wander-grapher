@@ -92,21 +92,21 @@ const Contact = () => {
                       <Mail className="w-4 h-4" /> hello@wander.ae
                     </a>
                     <span className="flex items-center gap-3">
-                      <Phone className="w-4 h-4" /> +971 4 123 4567
+                      <Phone className="w-4 h-4" /> +971558092534
                     </span>
                     <span className="flex items-center gap-3">
-                      <MapPin className="w-4 h-4" /> Business Bay, Dubai, UAE
+                      <MapPin className="w-4 h-4" />Dubai, UAE
                     </span>
                   </div>
                 </div>
-                <div>
+                {/* <div>
                   <h3 className="font-display text-xl mb-4">Working Hours</h3>
                   <p className="text-sm text-muted-foreground">
                     Sunday — Thursday: 9:00 AM – 6:00 PM
                     <br />
                     Friday — Saturday: By appointment
                   </p>
-                </div>
+                </div> */}
               </div>
             </AnimatedSection>
           </div>
